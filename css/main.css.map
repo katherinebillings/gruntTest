@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK,CAAC,gBAAgB,CAAE,IAAI,CAAE,SAAS,CAAE,IAAI,CAAG,MAAM,CAAE,CAAC,CCAzD,IAAK,CAAE,KAAK,CAAE,KAAK",
+"sources": ["../sass/main.scss","../sass/modules/_module.scss"],
+"names": [],
+"file": "main.css"
+}
